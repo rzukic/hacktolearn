@@ -1,6 +1,6 @@
 # htl - Hack To Learn
 
-- [ ] docker-compose file
+- [X] docker-compose file
 - [x] nextjs setup
-- [ ] dockerfiles
+- [X] dockerfiles
 
